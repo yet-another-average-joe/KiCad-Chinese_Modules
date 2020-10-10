@@ -7,3 +7,9 @@ All combinations for symbols, footprints and 3D models : pin headers, pin header
 2 symbols
 7 footprints
 8 STEP 3D models, 8 WRL 3D models
+
+
+![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_Standoffs.JPG)
+
+
+
