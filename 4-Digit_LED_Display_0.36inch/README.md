@@ -1,6 +1,6 @@
 KiCad library for the 0.36 inch 4-Digit LED Display
 
-All combinations for symbols, footprints and 3D models : pin headers, pin headers + pin sockets, standoffs
+All combinations for symbols, footprints and 3D models : bare module, with pin headers, with pin headers + pin sockets, and on standoffs.
 
 3D models come in two formats : STEP and WRL, in a ZIP archive, files being too large for GitHub.
 
