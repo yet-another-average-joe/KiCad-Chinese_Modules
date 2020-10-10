@@ -12,6 +12,8 @@ All combinations for symbols, footprints and 3D models : pin headers, pin header
 ![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_Standoffs.JPG)
 
 
+![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_PinSocket_Right_Standoffs.jpg)
+
 Symbols :
 
 Footprints :
