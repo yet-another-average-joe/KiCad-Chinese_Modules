@@ -23,6 +23,6 @@ Footprints :
 ![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_PinSocket_Right_Standoffs_Footprint.png)
 ![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_PinSockets_Both_Footprint.png)
 ![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_PinSockets_Both_Standoffs_Footprint.png)
-![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_Standoffs.JPG)
+
 
 
