@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_036_4digit_TM1637_Dots
+D module : 0.36" TM1637 4 digit LED display with dots
+K module display serial TM1637 LED dots
+F http://www.lcd-module.de/pdf/doma/t123-i2c.pdf
+$ENDCMP
+#
+#End Doc Library
