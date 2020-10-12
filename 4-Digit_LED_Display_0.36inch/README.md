@@ -16,7 +16,7 @@ symbol
 
 Symbol :
 
-![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/LED_036_4digit_TM1637_Dots_Symbol.png)
+![](https://github.com/yet-another-average-joe/Chinese_Modules/blob/main/4-Digit_LED_Display_0.36inch/Images/YAAJ_4_Digit_LED_Display_0.36_Dots_TM1637_Symbol.png)
 
 Footprints :
 
