@@ -5,7 +5,9 @@ All combinations for symbols, footprints and 3D models : bare module, with pin h
 3D models come in two formats : STEP and WRL, in a ZIP archive, files being too large for GitHub.
 
 1 symbol
+
 9 footprints
+
 10 STEP 3D models, 10 WRL 3D models
 
 
