@@ -6,7 +6,7 @@ All combinations for symbols, footprints and 3D models : bare module, with pin h
 
 1 symbol
 
-9 footprints
+9 footprints ; Dwgs.User layer contains the module outline.
 
 10 STEP 3D models, 10 WRL 3D models
 
