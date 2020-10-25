@@ -1,4 +1,4 @@
-(module YAAJ_Modules_Power:YAAJ_DCDC_StepDown_LM2596 (layer F.Cu) (tedit 5F95EDCD)
+(module YAAJ_Modules_Power:YAAJ_DCDC_StepDown_LM2596 (layer F.Cu) (tedit 5F95FD08)
   (fp_text reference REF** (at 21.59 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -146,7 +146,7 @@
   (fp_line (start 37.448681 -0.619704) (end 37.448681 0.980295) (layer F.SilkS) (width 0.12))
   (fp_line (start 36.648681 0.980295) (end 36.648681 -0.619704) (layer F.SilkS) (width 0.12))
   (pad 3 thru_hole circle (at 40.64 17.78) (size 2.54 2.54) (drill 1) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at 40.64 0) (size 2.54 2.54) (drill 1) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 40.64 0) (size 2.54 2.54) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 17.78) (size 2.54 2.54) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 2.54 2.54) (drill 1) (layers *.Cu *.Mask))
   (model D:/Users/admin/Documents/KiCad/Libraries/Packages3d/Modules/DCDC_StepDown_LM2596/YAAJ_DCDC_StepDown_LM2596_PinHeaders_cp.wrl
