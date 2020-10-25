@@ -11,6 +11,6 @@ Symbol :
 
 ![](https://github.com/yet-another-average-joe/KiCad-Chinese_Modules/blob/main/DCDC_StepDown_LM2596/Images/YAAJ_DCDC_StepDown_LM2596_Symbol.png)
 
-Footprints :
+Footprint :
 
-![](https://github.com/yet-another-average-joe/KiCad-Chinese_Modules/blob/main/DCDC_StepDown_LM2596/Images/YAAJ_DCDC_StepDown_LM2596_Symbol.png)
+![](https://raw.githubusercontent.com/yet-another-average-joe/KiCad-Chinese_Modules/main/DCDC_StepDown_LM2596/Images/YAAJ_DCDC_StepDown_LM2596_Footprint.png)
