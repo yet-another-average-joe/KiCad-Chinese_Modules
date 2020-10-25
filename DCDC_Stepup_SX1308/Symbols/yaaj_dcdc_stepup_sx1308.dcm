@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP YAAJ_DCDC_StepUp_SX1308
+D module : adjustable stepup converter module2V-24V to 2V-28V 2A
+K module stepup step up boost converter DCDC DC
+$ENDCMP
+#
+#End Doc Library
